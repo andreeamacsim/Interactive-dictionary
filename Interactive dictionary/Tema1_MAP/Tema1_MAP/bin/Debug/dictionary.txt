@@ -1,0 +1,4 @@
+Apple,A fruit,Food,FruitImages\apple.jpg
+Computer,A device for processing information,Technology,DeviceImages\computer.png
+Table,Furniture for eating or working,Home,FurnitureImages\table.jpg
+Masa,obiect de dimensiuni relative unde se aseaza diferite obiecte,Home,nu

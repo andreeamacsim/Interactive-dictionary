@@ -1,0 +1,42 @@
+﻿<Window x:Class="Tema1_MAP.WordSearchView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tema1_MAP"
+        mc:Ignorable="d"
+        Title="WordSearchView" Height="450" Width="800">
+    <Grid >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Search Bar and Button -->
+        <Grid Grid.Row="0" Margin="10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+
+            <ComboBox x:Name="SearchComboBox" VerticalAlignment="Center" Margin="0,0,454,0" IsEditable="True" IsTextSearchEnabled="True" TextSearch.TextPath="{x:Null}" PreviewKeyDown="SearchComboBox_PreviewKeyDown"/>
+
+            <Button Content="Search" Grid.Column="1" Margin="10,0,10,0" VerticalAlignment="Center" Click="SearchButton_Click"/>
+        </Grid>
+
+        <!-- Category ComboBox -->
+        <ComboBox x:Name="CategoryComboBox" Grid.Row="0" Grid.Column="1" Margin="10" VerticalAlignment="Center" Width="200"/>
+
+        <!-- Word List -->
+        <ListBox x:Name="WordListBox" Grid.Row="1" Margin="10,98,0,44" HorizontalAlignment="Left"  Width="300" SelectionChanged="WordListBox_SelectionChanged"/>
+
+        <!-- Description, Category, and Image -->
+        <StackPanel Grid.Row="1" Margin="10,3,10,4" Orientation="Vertical">
+            <Label x:Name="SelectedWordLabel" Content="Selected Word:" FontWeight="Bold" FontStyle="Italic"/>
+            <Label x:Name="DescriptionLabel" Content="Description:" FontWeight="Bold" FontStyle="Italic"/>
+            <Label x:Name="CategoryLabel" Content="Category:" FontWeight="Bold" FontStyle="Italic"/>
+            <Image x:Name="ImageBox" Height="200" Width="300" RenderTransformOrigin="0.522,0.556"/>
+        </StackPanel>
+    </Grid>
+</Window>

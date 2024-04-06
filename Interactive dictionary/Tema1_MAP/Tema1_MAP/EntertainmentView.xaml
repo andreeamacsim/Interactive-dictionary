@@ -1,0 +1,24 @@
+﻿<Window x:Class="Tema1_MAP.EntertainmentView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="EntertainmentView" Height="500" Width="800">
+    <Grid>
+
+        <TextBlock x:Name="CorrectAnswersTextBlock" Text="Correct answers: 0" Margin="0,10,29,0" HorizontalAlignment="Right" VerticalAlignment="Top" FontWeight="Bold"/>
+        <StackPanel x:Name="HintPanel" Margin="0,10,0,0" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Image x:Name="HintImage" Height="150" Width="200" Visibility="Collapsed"/>
+            <TextBlock x:Name="HintDescription" Text="Descrierea cuvântului" Visibility="Collapsed"/>
+        </StackPanel>
+
+        <StackPanel x:Name="AnswerPanel" Margin="10" HorizontalAlignment="Center" VerticalAlignment="Top">
+            <TextBlock Text="Enter the answer:"/>
+            <TextBox x:Name="AnswerTextBox" Margin="0,5" Width="200"/>
+            <Button Content="Check the answer" Click="CheckAnswerButton_Click" Margin="0,5"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="10">
+            <Button x:Name="PreviousButton" Content="Previous" Click="PreviousButton_Click" Margin="10" IsEnabled="False"/>
+            <Button x:Name="NextFinishButton" Content="Next" Click="NextFinishButton_Click" Margin="10"/>
+        </StackPanel>
+    </Grid>
+</Window>

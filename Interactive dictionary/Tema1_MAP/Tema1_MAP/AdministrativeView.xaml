@@ -1,0 +1,29 @@
+﻿<Window x:Class="Tema1_MAP.AdministrativeView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="AdministrativeView" Height="468" Width="636">
+    <Grid Background="#FFFFCCCC">
+        <StackPanel Margin="20">
+            <TextBlock Text="Word:" FontStyle="Italic" FontWeight="Bold"/>
+            <TextBox x:Name="WordTextBox" Margin="0,0,0,10" />
+
+            <TextBlock Text="Description:" FontStyle="Italic" FontWeight="Bold"/>
+            <TextBox x:Name="DescriptionTextBox" Margin="0,0,0,10" />
+
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                <TextBlock Text="Category:" FontStyle="Italic" FontWeight="Bold"/>
+                <ComboBox x:Name="CategoryComboBox"  Margin="5,0,0,0" Foreground="#FFEEB4B4"/>
+                <TextBox x:Name="NewCategoryTextBox" Margin="5,0,0,0" Width="120"/>
+                <Button Content="Add Category" Click="AddCategoryButton_Click" FontStyle="Italic" FontWeight="Bold" Background="LightCoral"/>
+            </StackPanel>
+
+            <TextBlock Text="Image Path:" FontStyle="Italic" FontWeight="Bold"/>
+            <TextBox x:Name="ImagePathTextBox" Margin="0,0,0,10" />
+
+            <Button Content="Add Word" Click="AddWordButton_Click" FontStyle="Italic" FontWeight="Bold" Background="LightCoral"/>
+            <Button Content="Update Word" Click="UpdateWordButton_Click" FontStyle="Italic" FontWeight="Bold" Background="LightCoral"/>
+            <Button Content="Delete Word" Click="DeleteWordButton_Click" FontStyle="Italic" FontWeight="Bold" Background="LightCoral"/>
+        </StackPanel>
+
+    </Grid>
+</Window>

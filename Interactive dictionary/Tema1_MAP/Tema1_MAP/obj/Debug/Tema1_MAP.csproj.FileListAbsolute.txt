@@ -1,0 +1,46 @@
+C:\Users\Andreea\Desktop\Tema1_MAP\Tema1_MAP\bin\Debug\Tema1_MAP.exe.config
+C:\Users\Andreea\Desktop\Tema1_MAP\Tema1_MAP\bin\Debug\Tema1_MAP.exe
+C:\Users\Andreea\Desktop\Tema1_MAP\Tema1_MAP\bin\Debug\Tema1_MAP.pdb
+C:\Users\Andreea\Desktop\Tema1_MAP\Tema1_MAP\obj\Debug\Tema1_MAP.csproj.AssemblyReference.cache
+C:\Users\Andreea\Desktop\Tema1_MAP\Tema1_MAP\obj\Debug\AdministrativeView.g.cs
+C:\Users\Andreea\Desktop\Tema1_MAP\Tema1_MAP\obj\Debug\EntertainmentView.g.cs
+C:\Users\Andreea\Desktop\Tema1_MAP\Tema1_MAP\obj\Debug\MainWindow.g.cs
+C:\Users\Andreea\Desktop\Tema1_MAP\Tema1_MAP\obj\Debug\WordSearchView.g.cs
+C:\Users\Andreea\Desktop\Tema1_MAP\Tema1_MAP\obj\Debug\App.g.cs
+C:\Users\Andreea\Desktop\Tema1_MAP\Tema1_MAP\obj\Debug\Tema1_MAP_MarkupCompile.cache
+C:\Users\Andreea\Desktop\Tema1_MAP\Tema1_MAP\obj\Debug\Tema1_MAP_MarkupCompile.lref
+C:\Users\Andreea\Desktop\Tema1_MAP\Tema1_MAP\obj\Debug\AdministrativeView.baml
+C:\Users\Andreea\Desktop\Tema1_MAP\Tema1_MAP\obj\Debug\EntertainmentView.baml
+C:\Users\Andreea\Desktop\Tema1_MAP\Tema1_MAP\obj\Debug\MainWindow.baml
+C:\Users\Andreea\Desktop\Tema1_MAP\Tema1_MAP\obj\Debug\WordSearchView.baml
+C:\Users\Andreea\Desktop\Tema1_MAP\Tema1_MAP\obj\Debug\Tema1_MAP.g.resources
+C:\Users\Andreea\Desktop\Tema1_MAP\Tema1_MAP\obj\Debug\Tema1_MAP.Properties.Resources.resources
+C:\Users\Andreea\Desktop\Tema1_MAP\Tema1_MAP\obj\Debug\Tema1_MAP.csproj.GenerateResource.cache
+C:\Users\Andreea\Desktop\Tema1_MAP\Tema1_MAP\obj\Debug\Tema1_MAP.csproj.CoreCompileInputs.cache
+C:\Users\Andreea\Desktop\Tema1_MAP\Tema1_MAP\obj\Debug\Tema1_MAP.exe
+C:\Users\Andreea\Desktop\Tema1_MAP\Tema1_MAP\obj\Debug\Tema1_MAP.pdb
+C:\Users\Andreea\Desktop\Tema1_MAP\Tema1_MAP\obj\Debug\LoginWindow.baml
+C:\Users\Andreea\Desktop\Tema1_MAP\Tema1_MAP\obj\Debug\LoginWindow.g.cs
+C:\Users\Andreea\Desktop\Facultate\Facultate anu 2\semestrul 2\MAP\Interactive dictionary\Tema1_MAP\Tema1_MAP\bin\Debug\Tema1_MAP.exe.config
+C:\Users\Andreea\Desktop\Facultate\Facultate anu 2\semestrul 2\MAP\Interactive dictionary\Tema1_MAP\Tema1_MAP\bin\Debug\Tema1_MAP.exe
+C:\Users\Andreea\Desktop\Facultate\Facultate anu 2\semestrul 2\MAP\Interactive dictionary\Tema1_MAP\Tema1_MAP\bin\Debug\Tema1_MAP.pdb
+C:\Users\Andreea\Desktop\Facultate\Facultate anu 2\semestrul 2\MAP\Interactive dictionary\Tema1_MAP\Tema1_MAP\obj\Debug\Tema1_MAP.csproj.AssemblyReference.cache
+C:\Users\Andreea\Desktop\Facultate\Facultate anu 2\semestrul 2\MAP\Interactive dictionary\Tema1_MAP\Tema1_MAP\obj\Debug\AdministrativeView.baml
+C:\Users\Andreea\Desktop\Facultate\Facultate anu 2\semestrul 2\MAP\Interactive dictionary\Tema1_MAP\Tema1_MAP\obj\Debug\EntertainmentView.baml
+C:\Users\Andreea\Desktop\Facultate\Facultate anu 2\semestrul 2\MAP\Interactive dictionary\Tema1_MAP\Tema1_MAP\obj\Debug\LoginWindow.baml
+C:\Users\Andreea\Desktop\Facultate\Facultate anu 2\semestrul 2\MAP\Interactive dictionary\Tema1_MAP\Tema1_MAP\obj\Debug\AdministrativeView.g.cs
+C:\Users\Andreea\Desktop\Facultate\Facultate anu 2\semestrul 2\MAP\Interactive dictionary\Tema1_MAP\Tema1_MAP\obj\Debug\EntertainmentView.g.cs
+C:\Users\Andreea\Desktop\Facultate\Facultate anu 2\semestrul 2\MAP\Interactive dictionary\Tema1_MAP\Tema1_MAP\obj\Debug\LoginWindow.g.cs
+C:\Users\Andreea\Desktop\Facultate\Facultate anu 2\semestrul 2\MAP\Interactive dictionary\Tema1_MAP\Tema1_MAP\obj\Debug\MainWindow.g.cs
+C:\Users\Andreea\Desktop\Facultate\Facultate anu 2\semestrul 2\MAP\Interactive dictionary\Tema1_MAP\Tema1_MAP\obj\Debug\WordSearchView.g.cs
+C:\Users\Andreea\Desktop\Facultate\Facultate anu 2\semestrul 2\MAP\Interactive dictionary\Tema1_MAP\Tema1_MAP\obj\Debug\App.g.cs
+C:\Users\Andreea\Desktop\Facultate\Facultate anu 2\semestrul 2\MAP\Interactive dictionary\Tema1_MAP\Tema1_MAP\obj\Debug\Tema1_MAP_MarkupCompile.cache
+C:\Users\Andreea\Desktop\Facultate\Facultate anu 2\semestrul 2\MAP\Interactive dictionary\Tema1_MAP\Tema1_MAP\obj\Debug\Tema1_MAP_MarkupCompile.lref
+C:\Users\Andreea\Desktop\Facultate\Facultate anu 2\semestrul 2\MAP\Interactive dictionary\Tema1_MAP\Tema1_MAP\obj\Debug\MainWindow.baml
+C:\Users\Andreea\Desktop\Facultate\Facultate anu 2\semestrul 2\MAP\Interactive dictionary\Tema1_MAP\Tema1_MAP\obj\Debug\WordSearchView.baml
+C:\Users\Andreea\Desktop\Facultate\Facultate anu 2\semestrul 2\MAP\Interactive dictionary\Tema1_MAP\Tema1_MAP\obj\Debug\Tema1_MAP.g.resources
+C:\Users\Andreea\Desktop\Facultate\Facultate anu 2\semestrul 2\MAP\Interactive dictionary\Tema1_MAP\Tema1_MAP\obj\Debug\Tema1_MAP.Properties.Resources.resources
+C:\Users\Andreea\Desktop\Facultate\Facultate anu 2\semestrul 2\MAP\Interactive dictionary\Tema1_MAP\Tema1_MAP\obj\Debug\Tema1_MAP.csproj.GenerateResource.cache
+C:\Users\Andreea\Desktop\Facultate\Facultate anu 2\semestrul 2\MAP\Interactive dictionary\Tema1_MAP\Tema1_MAP\obj\Debug\Tema1_MAP.csproj.CoreCompileInputs.cache
+C:\Users\Andreea\Desktop\Facultate\Facultate anu 2\semestrul 2\MAP\Interactive dictionary\Tema1_MAP\Tema1_MAP\obj\Debug\Tema1_MAP.exe
+C:\Users\Andreea\Desktop\Facultate\Facultate anu 2\semestrul 2\MAP\Interactive dictionary\Tema1_MAP\Tema1_MAP\obj\Debug\Tema1_MAP.pdb

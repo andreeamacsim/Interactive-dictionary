@@ -1,0 +1,17 @@
+Apple,A  red fruit,Food,C:\Users\Andreea\Desktop\Tema1_MAP\Tema1_MAP\Images\Apple.jpg
+Apricot,A fruit,Food,C:\Users\Andreea\Desktop\Tema1_MAP\Tema1_MAP\Images\Apricot.jpg
+Banana,A  yeallow fruit,Food,C:\Users\Andreea\Desktop\Tema1_MAP\Tema1_MAP\Images\Banana.jpg
+Computer,A device for processing information,Technology,C:\Users\Andreea\Desktop\Tema1_MAP\Tema1_MAP\Images\Computer.jpg
+Mouse,A pointing device,Technology,C:\Users\Andreea\Desktop\Tema1_MAP\Tema1_MAP\Images\Mouse.jpg
+Monitor,A display device,Technology,C:\Users\Andreea\Desktop\Tema1_MAP\Tema1_MAP\Images\Monitor.jpg
+Table,Furniture for eating or working,Home,C:\Users\Andreea\Desktop\Tema1_MAP\Tema1_MAP\Images\Table.jpg
+Chair,Furniture for sitting,Home,C:\Users\Andreea\Desktop\Tema1_MAP\Tema1_MAP\Images\Chair.jpg
+Sofa,Furniture for seating,Home,C:\Users\Andreea\Desktop\Tema1_MAP\Tema1_MAP\Images\Sofa.jpg
+Bed,Furniture for sleeping,Home,C:\Users\Andreea\Desktop\Tema1_MAP\Tema1_MAP\Images\Bed.jpg
+Desk,Furniture for working,Home,C:\Users\Andreea\Desktop\Tema1_MAP\Tema1_MAP\Images\Desk.jpg
+Dresser,Furniture for storage,Home,C:\Users\Andreea\Desktop\Tema1_MAP\Tema1_MAP\Images\Dresser.jpg
+Curtains,Window coverings,Home,C:\Users\Andreea\Desktop\Tema1_MAP\Tema1_MAP\Images\Curtains.jpg
+Plant,A living organism,Home,C:\Users\Andreea\Desktop\Tema1_MAP\Tema1_MAP\Images\Plant.jpg
+Pillow,Soft support for sleeping,Home,C:\Users\Andreea\Desktop\Tema1_MAP\Tema1_MAP\Images\Pillow.jpg
+para,obiect de mancat galben-verzui,Food,C:\Users\Andreea\Desktop\Tema1_MAP\Tema1_MAP\Images\Blank.jpg
+Cireasa,obiect de mancat rosu vara,Food,C:\Users\Andreea\Desktop\Tema1_MAP\Tema1_MAP\bin\Debug\Images\Blank.jpg
